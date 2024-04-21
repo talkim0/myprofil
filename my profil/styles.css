@@ -1,0 +1,93 @@
+* {
+  background-color: #000;
+}
+.avatar {
+    text-align: center;
+}
+
+.avatar-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    background-color: #00ff00;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 23px; /* Ukuran font untuk h2 */
+    margin: 0; /* Menghapus margin default */
+    padding: 20px 0; /* Padding atas dan bawah untuk menjaga jarak */
+    color: #00ff00;
+}
+h2 a {
+  font-size: 22px;
+  margin: 0;
+  color: #fff;
+}
+h1 {
+  font-size: 20px;
+  margin: 0;
+  padding: 15px 0;
+  color: #00ff00;
+}
+
+.box-container {
+    display: flex;
+    padding: 5px 0;
+    justify-content: center;
+    align-items: center;
+    background-color: #00ff00;
+    width: 570px; /* Lebar kotak */
+    height: 40px; /* Tinggi kotak */
+    border: 1px solid #00ff00;
+    border-radius: 15px;
+    background: #000;
+}
+
+.youtube-image {
+    width: 50px; /* Lebar gambar */
+    height: auto;
+    margin-right: 15px;
+    border-radius: 15px;
+}
+
+.youtube-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: #00ff00;
+    background: #000;
+}
+.saweria-image {
+  width: 10px;
+  height: auto;
+  margin-right: 15px;
+  border-radius: 15px;
+}
+.saweria-text {
+  font-size: 20px;
+  font-weight: bold;
+  color: #00ff00;
+}
+
+.avatar-name {
+    font-size: 24px;
+    color: #ffff;
+}
+.avatar h2 {
+  color: #00ff00;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Tinggi layar penuh */
+}
